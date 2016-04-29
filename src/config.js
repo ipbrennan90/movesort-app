@@ -15,8 +15,8 @@ module.exports = Object.assign({
   apiHost: process.env.APIHOST || 'localhost',
   apiPort: process.env.APIPORT,
   app: {
-    title: 'React Redux Example',
-    description: 'All the modern best practices in one example.',
+    title: 'Move Sort',
+    description: 'Filling all your moving needs with ease.',
     head: {
       titleTemplate: 'React Redux Example: %s',
       meta: [
